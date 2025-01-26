@@ -34,6 +34,12 @@ Instale as dependências:
 Certifique-se de que o Node.js está instalado na sua máquina.
 
 
+
+
+
+
+
+
 📧 Seu Nome: jpcicolo@gmail.com
 🔗 https://www.linkedin.com/in/keymius)
 
