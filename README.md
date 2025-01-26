@@ -31,7 +31,7 @@ cd nome-do-diretorio (nome que vc salvar)
 npm run dev
 
 Instale as dependências:
-**Certifique-se de que o Node.js está instalado na sua máquina.**
+Certifique-se de que o Node.js está instalado na sua máquina.*
 
 
 
@@ -39,7 +39,7 @@ Instale as dependências:
 
 
 
-
-📧 Seu Nome: jpcicolo@gmail.com
+🌟 Contato
+📧 jpcicolo@gmail.com
 🔗 https://www.linkedin.com/in/keymius)
 
