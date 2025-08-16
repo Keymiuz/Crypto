@@ -1,6 +1,6 @@
 #  Crypto Tracker App 📊  
 
-Bem-vindo ao **Crypto Tracker App**, uma aplicação web moderna e responsiva para rastrear, em tempo real, as **100 maiores criptomoedas**. Com gráficos dinâmicos 📈, quedas 🚨, aumentos 📊 e mais, você tem tudo o que precisa para monitorar o mercado de cripto de forma simples e eficiente.  
+Bem-vindo ao **Crypto Tracker App**, uma aplicação web moderna e responsiva para rastrear, em tempo real, as **100 maiores criptomoedas**. Com gráficos dinâmicos, quedas, aumentos e mais, você tem tudo o que precisa para monitorar o mercado de cripto de forma simples e eficiente.  
 
 ## 🛠️ Tecnologias Utilizadas  
 -  **Vite**  
